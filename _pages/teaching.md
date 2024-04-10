@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+During my time at Caltech, I got heavily involved with teaching, serving as a teaching assistant (TA) and, eventually, as an instructor for a course I developed as part of <a href="https://www.cms.caltech.edu/academics/courses/cs-12">CS 12 (Student-taught topics in computing)</a>. I find that I am deeply inspired and motivated to help educate the new generation of scientists to come! Here are some highlights from my journey in teaching (thus far):
 
-Organize your courses by years, topics, or universities, however you like!
+#### The quarterly results look great!
+- Revenue was off the chart.
+- Profits were higher than ever.
+
+*Everything* is going according to **plan**.
