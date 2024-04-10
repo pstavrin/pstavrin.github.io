@@ -22,17 +22,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "School of Computational Science and Engineering (CSE), Georgia Tech",
-      "position": "PhD student",
-      "url": "https://cse.gatech.edu/",
-      "startDate": "2023",
-      "endDate": "",
-      "summary": "Working on model reduction for (Bayesian) inverse problems",
-      "highlights": []
-    }
-  ],
   "education": [
     {
       "institution": "California Institute of Technology (Caltech)",
@@ -42,6 +31,17 @@
       "studyType": "BS in Applied and Computational Mathematics (ACM)",
       "startDate": "2019",
       "endDate": "2023",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Georgia Institute of Technology (Georgia Tech)",
+      "location": "Atlanta, GA",
+      "url": "https://cse.gatech.edu/",
+      "area": "model reduction for (Bayesian) inverse problems",
+      "studyType": "PhD student in Computational Science and Engineering (CSE)",
+      "startDate": "2023",
+      "endDate": "",
       "score": "",
       "courses": []
     }
