@@ -30,7 +30,7 @@
       "startDate": "2023",
       "endDate": "",
       "summary": "Working on model reduction for (Bayesian) inverse problems",
-      "highlights": [""]
+      "highlights": []
     }
   ],
   "education": [
@@ -43,60 +43,30 @@
       "startDate": "2019",
       "endDate": "2023",
       "score": "",
-      "courses": [""]
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Thomas A. Tisch Prize for Teaching",
+      "date": "2023",
+      "awarder": "Caltech Computing + Mathematical Sciences (CMS)",
+      "url": "https://www.cms.caltech.edu/academics/honors",
+      "summary": "Departmental award for outstanding teaching and course development in computing and mathematical sciences"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "George W. and Bernice E. Green Memorial Prize",
+      "date": "2023",
+      "awarder": "Caltech",
+      "url": "https://catalog.caltech.edu/current/information-for-undergraduate-students/prizes-and-awards/",
+      "summary": "Institute-wide award for original research"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Fredrick J. Zeigler Memorial Award",
+      "date": "2022",
+      "awarder": "Caltech Computing + Mathematical Sciences (CMS)",
+      "url": "https://www.cms.caltech.edu/academics/honors",
+      "summary": "Departmental award for excellence in scholarship"
     }
   ],
   "publications": [
