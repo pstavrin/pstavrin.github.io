@@ -19,7 +19,7 @@ This is a course that I developed during my junior year at Caltech and taught du
 Each topic is accompanied by a coding "mini-project", which I designed, in order to give students hands-on experience analyzing networks using the tools developed in lecture. The last part of the course is devoted to a small self-guided project, where students can apply the techniques we developed to analyze a network of their choice. If you have any questions about the course or the course material feel free to reach out!
 
 ## **ACM 104 - Applied Linear Algebra**
-To this day, ACM 104 (description found <a href="https://www.cms.caltech.edu/academics/courses/acmids-104">here</a>) is one of my favorite courses I have ever taken! Here are some of my contributions during my two years of serving as a TA for ACM 104:
+To this day, ACM 104 (description found <a href="https://www.cms.caltech.edu/academics/courses/acmids-104">here</a>) remains one of my favorite classes that I've taken! Here are some of my contributions during my two years of serving as a TA for ACM 104:
 
 * I designed and developed MATLAB livescripts for coding problems. These livescripts were given to students in order to help with their understanding and implementation of algorithms. The livescripts also served as a smooth transition to coding in MATLAB, since a lot of students did not have prior experience
 * I was in charge of leading the official exam review sessions (midterm and final). My approach in these review sessions was to solve problems *with* the students in order to review the material, give them some idea of what we might ask in the exam, and get some practice solving linear algebra problems
@@ -28,6 +28,6 @@ To this day, ACM 104 (description found <a href="https://www.cms.caltech.edu/aca
 ## **ACM 11 - Intro to Computational Science**
 ACM 11 (description found <a href="https://www.cms.caltech.edu/academics/courses/acm-11">here</a>) is a wonderful course aimed primarily towards first-year undergrads. The purpose of the course is to teach students MATLAB, and provide hands-on experience with some of the most commonly-used computational methods in science and engineering. Here are some of my contributions during my two years of serving as a TA for ACM 11:
 
-* I attended weekly lectures to help students with in-class coding exercises. Doing this allowed me to aid students with bridging the gap between lecture material and homework material, and it also allowed me to answer any conceptual questions the students had
+* I attended the weekly lectures to help students with in-class coding exercises. Doing this allowed me to aid students with bridging the gap between lecture material and homework material, and it also allowed me to answer any conceptual questions the students had
 * I designed and led introductory "problem-solving with MATLAB" recitations
-* I help weekly office hours and was responsible for grading assignments
+* I held weekly office hours and was responsible for grading assignments
