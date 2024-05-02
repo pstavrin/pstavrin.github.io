@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a first year PhD student in Computational Science and Engineering [(CSE)](https://cse.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/), where I'm grateful to be advised by [Elizabeth Qian](https://www.elizabethqian.com/).
+I'm a first year PhD student in Computational Science and Engineering [(CSE)](https://cse.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/), where I'm advised by [Elizabeth Qian](https://www.elizabethqian.com/).
 
 Primarily, I am interested in model reduction for inverse problems. This means that I am interested in developing mathematical theory and algorithms for solving inverse problems fast and accurately.
 
